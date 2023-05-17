@@ -20,5 +20,6 @@
 * HTML and CSS. The frontend of the application utilizes HTML and CSS for structuring and styling web content. 
 
 #### NuGet Packages
-
+Automapper\
+Entity Framework Core
 
