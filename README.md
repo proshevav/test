@@ -2,11 +2,10 @@
 
 ### Features
 ***
-* Front
-  * new 
-  * 
-* Back
-  * new
+* Register/login
+* Two-factor authentication
+* Table listing 
+* Version updates
 
 ### Technologies
 ***
@@ -21,5 +20,7 @@
 
 #### NuGet Packages
 Automapper\
-Entity Framework Core
+Antd\
+Entity Framework Core\
+SendGrid
 
